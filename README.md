@@ -98,7 +98,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Chirag H - chirag.hegde01@gmail.com
+Ayush Athawale - ayushathawale07@gmail.com
 
 Project Link: [Prod-Max-Productivity-Management-Chrome-Extension/](https://github.com/soul0101/Prod-Max-Productivity-Management-Chrome-Extension/)
 
